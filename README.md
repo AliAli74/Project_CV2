@@ -39,3 +39,9 @@ Pull-Up Counter is the ultimate fitness companion for anyone who wants to take t
 - scikit-learn: For training the machine learning model.
 - Pillow: For image processing and visualization.
 
+
+## License
+
+
+Feel free to modify and use the code according to your needs.
+
