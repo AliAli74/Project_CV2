@@ -1,4 +1,4 @@
-# Pull-Up Counter
+# Ai Coach App
 
 Are you looking for a simple and effective way to track your reps during pull-ups? 💪 Want to improve your fitness and performance with real-time feedback and data? If yes, then you need to check the withdrawal meter!
 
